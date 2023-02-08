@@ -52,7 +52,7 @@
     "@types/node": "^18.11.9",
     "babel-loader": "^9.1.0",
     "css-loader": "^6.7.1",
-    "electron": "^21.2.2",
+    "electron": "^23.0.0",
     "sass": "^1.56.0",
     "sass-loader": "^13.1.0",
     "style-loader": "^3.3.1",
